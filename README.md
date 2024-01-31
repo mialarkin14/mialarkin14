@@ -1,6 +1,6 @@
 ### Hi, I'm Mia! 👋💻
 
-<img src="" align="left" height="200" width="200"/>
+<img src="mialarkin14/gudetama-tie.png" align="left" height="200" width="200"/>
 
 <!--
 **mialarkin14/mialarkin14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
