@@ -1,6 +1,10 @@
-### Hi, I'm Mia! 👋💻
+<img src="gudetama-tie.png" align="left" height="180" display="inline"/>  
 
-<img src="mialarkin14/gudetama-tie.png" align="left" height="200" width="200"/>
+
+# Hi, I'm Mia! 👋💻
+## I'm a Computer Engineer Undergraduate studying at UConn 💙🩵🤍
+
+
 
 <!--
 **mialarkin14/mialarkin14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
