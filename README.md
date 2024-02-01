@@ -27,7 +27,13 @@
 
 * 📬 Email #1: mia.larkin1@icloud.com
 * 📨 Email #2: mia.larkin@uconn.edu
-* 📱 Phone: 203-914-5220 (Leave a Voicemail)
+
+### Socials:
+* 💼 Linkedin: www.linkedin.com/in/mia-larkin-4885b0250
+* 📷 Instagram: https://www.instagram.com/shadowillusion14/
+
+### Personal Website 🖥️: https://mialarkin14.github.io/Website/
+
 
 
 ### Check out my Repositories Below! 
