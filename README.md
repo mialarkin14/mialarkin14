@@ -28,3 +28,6 @@
 * 📬 Email #1: mia.larkin1@icloud.com
 * 📨 Email #2: mia.larkin@uconn.edu
 * 📱 Phone: 203-914-5220 (Leave a Voicemail)
+
+
+### Check out my Repositories Below! 
