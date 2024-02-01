@@ -2,7 +2,7 @@
 
 
 # Hi, I'm Mia! 👋💻
-## I'm a Computer Engineer Undergraduate studying at UConn 💙🩵🤍  
+## I'm a Computer Engineer Undergraduate studying at UConn 🩵🤍  
 
 
 
