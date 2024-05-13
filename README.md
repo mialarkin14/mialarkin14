@@ -17,7 +17,7 @@
 
   
 ## Fun Facts: 
-* 🍜 I'm a big foodie and my favorite food are Noodles <img src="Yoojun_Drawing.png" align="right" height="400" display="inline"/>  
+* 🍜 I'm a big foodie and my favorite food are Noodles <img src="Yoojung_Drawing.png" align="right" height="500" display="inline"/>  
 * 🎨 I love to draw and am developing my digitial drawing skills! My most recent digital drawing -->
 * 🍳 I have a healthy love for Gudetama (the egg guy at the top)
 * 🎻 I've played violin since I was 7 years old 
