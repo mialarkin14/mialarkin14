@@ -32,7 +32,7 @@
 * 💼 Linkedin: www.linkedin.com/in/mia-larkin-4885b0250
 * 📷 Instagram: https://www.instagram.com/shadowillusion14/
 
-## Personal Website 🖥️: [https://mialarkin14.github.io/Website/](https://mlarkin-personal-website.vercel.app/)
+## Personal Website 🖥️: https://mlarkin-personal-website.vercel.app/
 
 
 
