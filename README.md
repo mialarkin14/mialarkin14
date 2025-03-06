@@ -8,7 +8,7 @@
 
 #### Since high school, I've enjoyed building circuits and figuring out coding problems and projects! In my free time, you'll find me drawing ✏️, listening to music 🎧, playing video games with my sister 🎮, ice skating ⛸️, or skateboarding 🛹!  
 
-## I'm a Intermediate Programmer and am Currently:  
+## I'm an Intermediate Programmer and am Currently:  
 * 🔭 Working on optimizing my programs, coding new projects, and updating my personal website
 * 🌱 Growing my skills over the summer
 * 🤔 Looking for an internship in either Programming or Hardware
